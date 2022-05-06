@@ -1,2 +1,2 @@
 # KSuhasin_ORMandSpringMVCAssignmentSolution
-Gredde assignment 5
+Graded assignment 5
