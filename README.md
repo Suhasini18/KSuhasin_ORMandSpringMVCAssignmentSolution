@@ -1,2 +1,2 @@
-# KSuhasin_ORMandSpringMVCAssignmentSolution
+# KSuhasini_ORMandSpringMVCAssignmentSolution
 Graded assignment 5
